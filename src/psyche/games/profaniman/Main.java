@@ -11,7 +11,7 @@ public class Main
 	private static String[] words = 
 			{"bell end" , "cock muncher" , "ass belonker" , "gregs baby" ,
 				"vinegar strokes" , "turtles head" , "fudge packer" , 
-					"japs eye", "big floppy donkey dick" , "brown trout", "ball sack", "nut sack"};
+					"japs eye", "big floppy donkey dick" , "brown trout", "knackers", "ball sack", "nut sack"};
 	
 	private static char[] tokens, guess;
 	private static int guessCount = 0;
