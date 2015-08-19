@@ -6,7 +6,7 @@ import static psyche.games.profaniman.Utilities.*;
 
 public class Main 
 {
-	public static final int MAX_WRONG_TRIES = 5;
+	public static final int MAX_WRONG_TRIES = 6;
 	
 	private static String[] words = 
 			{"bell end" , "cock muncher" , "ass belonker" , "gregs baby" ,
